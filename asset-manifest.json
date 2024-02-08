@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.js": "https://katjaec.github.io/csb-tvwtrl/static/js/main.1ea5a4fa.chunk.js",
+    "main.js.map": "https://katjaec.github.io/csb-tvwtrl/static/js/main.1ea5a4fa.chunk.js.map",
+    "runtime-main.js": "https://katjaec.github.io/csb-tvwtrl/static/js/runtime-main.5a861957.js",
+    "runtime-main.js.map": "https://katjaec.github.io/csb-tvwtrl/static/js/runtime-main.5a861957.js.map",
+    "static/css/2.6a6ec778.chunk.css": "https://katjaec.github.io/csb-tvwtrl/static/css/2.6a6ec778.chunk.css",
+    "static/js/2.330b3a9b.chunk.js": "https://katjaec.github.io/csb-tvwtrl/static/js/2.330b3a9b.chunk.js",
+    "static/js/2.330b3a9b.chunk.js.map": "https://katjaec.github.io/csb-tvwtrl/static/js/2.330b3a9b.chunk.js.map",
+    "index.html": "https://katjaec.github.io/csb-tvwtrl/index.html",
+    "static/css/2.6a6ec778.chunk.css.map": "https://katjaec.github.io/csb-tvwtrl/static/css/2.6a6ec778.chunk.css.map",
+    "static/js/2.330b3a9b.chunk.js.LICENSE.txt": "https://katjaec.github.io/csb-tvwtrl/static/js/2.330b3a9b.chunk.js.LICENSE.txt",
+    "static/media/about.03817024.svg": "https://katjaec.github.io/csb-tvwtrl/static/media/about.03817024.svg",
+    "static/media/buy-background.b541d6e8.svg": "https://katjaec.github.io/csb-tvwtrl/static/media/buy-background.b541d6e8.svg",
+    "static/media/buy-right-background-top.7dfa414c.svg": "https://katjaec.github.io/csb-tvwtrl/static/media/buy-right-background-top.7dfa414c.svg",
+    "static/media/buy-right-background.f268dc4e.svg": "https://katjaec.github.io/csb-tvwtrl/static/media/buy-right-background.f268dc4e.svg",
+    "static/media/gallery-background.102870ab.svg": "https://katjaec.github.io/csb-tvwtrl/static/media/gallery-background.102870ab.svg",
+    "static/media/gallery-left.f62ebb22.svg": "https://katjaec.github.io/csb-tvwtrl/static/media/gallery-left.f62ebb22.svg",
+    "static/media/gallery-right.2cc868a8.svg": "https://katjaec.github.io/csb-tvwtrl/static/media/gallery-right.2cc868a8.svg",
+    "static/media/left-arrow.f3deb9da.svg": "https://katjaec.github.io/csb-tvwtrl/static/media/left-arrow.f3deb9da.svg",
+    "static/media/logo.d7c4ff6d.svg": "https://katjaec.github.io/csb-tvwtrl/static/media/logo.d7c4ff6d.svg",
+    "static/media/map-mark.7522c3fc.svg": "https://katjaec.github.io/csb-tvwtrl/static/media/map-mark.7522c3fc.svg",
+    "static/media/stars-image.f6ee057f.svg": "https://katjaec.github.io/csb-tvwtrl/static/media/stars-image.f6ee057f.svg",
+    "static/media/stars-left.9e6dbdcd.svg": "https://katjaec.github.io/csb-tvwtrl/static/media/stars-left.9e6dbdcd.svg",
+    "static/media/stars-right.1e0a1a53.svg": "https://katjaec.github.io/csb-tvwtrl/static/media/stars-right.1e0a1a53.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a861957.js",
+    "static/css/2.6a6ec778.chunk.css",
+    "static/js/2.330b3a9b.chunk.js",
+    "static/js/main.1ea5a4fa.chunk.js"
+  ]
+}
